@@ -15,7 +15,7 @@
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
