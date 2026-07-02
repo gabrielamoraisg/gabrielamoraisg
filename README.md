@@ -1,5 +1,10 @@
 ## Hi, my name is Gabriela! 👋
 
+<div style="display: inline_block">
+  <br>
+  <img align="right" alt="gengar-gif" src="https://media.tenor.com/InvGTXnS4PwAAAAi/gengar-gen-2.gif" width="200">
+</div>
+
 ### 🎓 Estudante de Engenharia de Software
 
 ### 💻 Tecnologias 
@@ -49,8 +54,11 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<div style="display: inline_block">
-  <br>
-  <img align="right" alt="gengar-gif" src="https://media.tenor.com/InvGTXnS4PwAAAAi/gengar-gen-2.gif" width="200">
-</div>
-
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'
+/>
