@@ -1,4 +1,4 @@
-# Hi, my name is Gabriela! 👋
+## Hi, my name is Gabriela! 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4F4A63&width=435&lines=Nice+to+meet+you!" alt="Typing SVG" />
 </a>
