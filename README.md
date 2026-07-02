@@ -7,8 +7,8 @@
   <img align="right" alt="gengar-gif" src="https://media.tenor.com/InvGTXnS4PwAAAAi/gengar-gen-2.gif" width="200">
 </div>
 
-## 🎓 Software Engineering Student
-## 💻 Skills
+<h2>🎓 Software Engineering Student</h2> 
+<h2>💻 Skills</h2>
 
 <img 
     align="left" 
