@@ -1,7 +1,8 @@
 ## Hi, my name is Gabriela! 👋
 
-🎓 Estudante de Engenharia de Software
-🤖 Tecnologias 
+### 🎓 Estudante de Engenharia de Software
+
+### 💻 Tecnologias 
 
 <img 
     align="left" 
@@ -22,6 +23,24 @@
 />
 
 <img 
+    align="left"
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+/>
+
+<img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
@@ -29,9 +48,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-
-
 
 <div style="display: inline_block">
   <br>
