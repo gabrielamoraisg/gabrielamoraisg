@@ -1,5 +1,7 @@
 ## Hi, my name is Gabriela! 👋
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F4A63&width=435&lines=Nice+to+meet+you!" alt="Typing SVG" /></a>
+
 <div style="display: inline_block">
   <br>
   <img align="right" alt="gengar-gif" src="https://media.tenor.com/InvGTXnS4PwAAAAi/gengar-gen-2.gif" width="200">
